@@ -1,0 +1,11 @@
+# App
+GOOGLE_APP_MODEL="gemini-pro"
+APP_PAGE_TITLE="QnA"
+APP_HEADER="Gemini LLM App"
+APP_SUBMIT_BUTTON="Get Ans"
+
+# VISION
+GOOGLE_VISION_MODEL="gemini-pro-vision"
+VISION_PAGE_TITLE="vision"
+VISION_HEADER="Gemini LLM App- Vision"
+VISION_SUBMIT_BUTTON="Submit"
